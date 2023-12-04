@@ -1,0 +1,20 @@
+# .gitignore for a Django project
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+# Ignore the Django media directory
+media/
+
+# Ignore the Django static directory
+staticfiles/
+
+# Ignore logs
+logs/
+
+# Ignore environment variables file
+.env
+
+# Ignore virtual environment file
+vms/
