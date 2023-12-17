@@ -1,4 +1,4 @@
-# Vendor Management System
+r# Vendor Management System
 
 ## Overview
 
@@ -26,7 +26,7 @@ Make sure you have the following installed:
 2. Navigate to the project directory:
 
     ```bash
-    cd yourproject
+    cd vendor_management_system
     ```
 
 3. Create and activate a virtual environment (optional but recommended):
